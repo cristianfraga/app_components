@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="deca96ed-2738-480b-8b36-fff9da9b6c0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/jar-loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/animated_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/avatar_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/widgets/custom_card_type_2.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components_flutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/components_flutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/inputs_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/widgets/custom_input_field.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/components_flutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/components_flutter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/router/app_routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/router/app_routes.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/alert_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/alert_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/card_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/card_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/listview2_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/listview2_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/screens/screens.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/screens.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/theme/app_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/theme/app_theme.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/widgets/widgets.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/widgets.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +41,11 @@
     "dart.analysis.tool.window.visible": "false",
     "io.flutter.reload.alreadyRun": "true",
     "last_opened_file_path": "/Users/cristianfragaprol/Documents/CIFPVilla/components_flutter",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editing.templates",
     "show.migrate.to.gradle.popup": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -68,11 +65,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678713570794</updated>
       <workItem from="1678713574929" duration="33000" />
-      <workItem from="1678713649888" duration="10792000" />
+      <workItem from="1678713649888" duration="11056000" />
+      <workItem from="1678785732441" duration="2627000" />
+      <workItem from="1678801991620" duration="1691000" />
+      <workItem from="1678804090598" duration="5145000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
