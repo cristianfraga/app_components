@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deca96ed-2738-480b-8b36-fff9da9b6c0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/screens/listview_builder_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/slider_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/router/app_routes.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/router/app_routes.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/inputs_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/inputs_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/screens.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/screens.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/widgets/custom_input_field.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/widgets/custom_input_field.dart" afterDir="false" />
-    </list>
+    <list default="true" id="deca96ed-2738-480b-8b36-fff9da9b6c0a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +61,7 @@
       <workItem from="1678801991620" duration="1691000" />
       <workItem from="1678804090598" duration="5145000" />
       <workItem from="1678869236509" duration="3074000" />
-      <workItem from="1678872322594" duration="14424000" />
+      <workItem from="1678872322594" duration="14512000" />
     </task>
     <servers />
   </component>
