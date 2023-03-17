@@ -1,2 +1,2 @@
 # components_flutter
-Testing components
+Flutter app example to learn Flutter basics
